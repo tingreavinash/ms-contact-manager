@@ -1,0 +1,22 @@
+// 20211016110903
+// http://localhost:8999/user/1101
+
+{
+  "userId": 1101,
+  "name": "Avinash Tingre",
+  "phone": "999",
+  "contacts": [
+    {
+      "cId": 101,
+      "userId": 1101,
+      "contactName": "roshan",
+      "email": "roshan@gmail.com"
+    },
+    {
+      "cId": 102,
+      "userId": 1101,
+      "contactName": "tushar",
+      "email": "tushar@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+// 20211016110753
+// http://localhost:9002/contact/user/1101
+
+[
+  {
+    "cId": 101,
+    "userId": 1101,
+    "contactName": "roshan",
+    "email": "roshan@gmail.com"
+  },
+  {
+    "cId": 102,
+    "userId": 1101,
+    "contactName": "tushar",
+    "email": "tushar@gmail.com"
+  }
+]
